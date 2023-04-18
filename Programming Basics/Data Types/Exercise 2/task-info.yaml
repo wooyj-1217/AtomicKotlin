@@ -7,7 +7,7 @@ files:
     length: 139
     placeholder_text: TODO() // write some examples
     initial_state:
-      length: 29
+      length: 139
       offset: 223
     initialized_from_dependency: false
     selected: true
@@ -17,8 +17,8 @@ files:
     length: 6
     placeholder_text: ???
     initial_state:
-      length: 3
-      offset: 350
+      length: 6
+      offset: 460
     initialized_from_dependency: false
     selected: true
     status: Solved
@@ -27,8 +27,8 @@ files:
     length: 211
     placeholder_text: TODO() // write some examples
     initial_state:
-      length: 29
-      offset: 383
+      length: 211
+      offset: 498
     initialized_from_dependency: false
     selected: true
     status: Solved

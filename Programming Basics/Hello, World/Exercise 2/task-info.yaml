@@ -7,7 +7,7 @@ files:
     length: 17
     placeholder_text: // TODO
     initial_state:
-      length: 7
+      length: 17
       offset: 67
     initialized_from_dependency: false
     selected: true

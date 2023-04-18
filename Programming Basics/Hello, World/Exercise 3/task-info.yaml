@@ -10,7 +10,7 @@ files:
         println("Kotlin!")
     initial_state:
       length: 38
-      offset: 67
+      offset: 69
     initialized_from_dependency: false
     selected: true
     status: Solved
