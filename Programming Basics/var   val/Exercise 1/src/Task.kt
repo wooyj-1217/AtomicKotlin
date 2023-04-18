@@ -2,5 +2,8 @@
 package varAndValExercise1
 
 fun main() {
-  // TODO
+  var answer = 42 //Val cannot be reassigned
+    println(answer)
+  answer = 43
+    println(answer)
 }

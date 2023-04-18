@@ -14,6 +14,8 @@
           <stringArguments>
             <stringArg name="classpath">
               <args>
+                <arg>$MODULE_DIR$/../../build/classes/java/main</arg>
+                <arg>$MODULE_DIR$/../../build/classes/kotlin/main</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.microutils/kotlin-logging-jvm/2.0.10/90f1eca4a5a13ffe0fccac501ffadf01b7e65b70/kotlin-logging-jvm-2.0.10.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.6.20/dab8089bca6ac0e394c37281ea8cff2f99acd421/kotlin-stdlib-jdk8-1.6.20.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.6.20/669965154723f1a712e8677af0cc5470dfdab81c/kotlin-reflect-1.6.20.jar</arg>
