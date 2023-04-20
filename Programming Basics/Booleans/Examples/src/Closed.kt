@@ -1,5 +1,12 @@
 // Booleans/Closed.kt
 
+/**
+ *
+ * or에 대한 예시.
+ * 왼쪽, 오른쪽 중 하나라도 true면 결과물도 true
+ *
+ */
+
 fun isClosed(hour: Int) {
   val open = 9
   val closed = 20

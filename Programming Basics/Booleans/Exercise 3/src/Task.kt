@@ -2,12 +2,20 @@
 package booleansExercise3
 
 fun and(b1: Boolean, b2: Boolean): Boolean =
-  TODO()
+    if (b1 == b2) {
+        b1
+    } else {
+        false
+    }
 
 fun or(b1: Boolean, b2: Boolean): Boolean =
-  TODO()
+    if (b1 == b2) {
+        b1
+    } else {
+        true
+    }
 
 fun main() {
-  println(and(true, true)) // true
-  println(or(true, false)) // true
+    println(and(true, true)) // true
+    println(or(true, false)) // true
 }
